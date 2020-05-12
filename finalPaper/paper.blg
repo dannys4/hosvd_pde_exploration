@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (MiKTeX 2.9.7400 64-bit)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: paper.aux
+The style file: ieeetr.bst
+Database file #1: paper.bib
+Warning--empty year in trefethen_bau
+Warning--empty journal in hosvd
+Warning--empty year in hosvd
+You've used 8 entries,
+            1876 wiz_defined-function locations,
+            521 strings with 4526 characters,
+and the built_in function-call counts, 1559 in all, are:
+= -- 152
+> -- 58
+< -- 0
++ -- 23
+- -- 15
+* -- 105
+:= -- 233
+add.period$ -- 11
+call.type$ -- 8
+change.case$ -- 6
+chr.to.int$ -- 0
+cite$ -- 11
+duplicate$ -- 74
+empty$ -- 156
+format.name$ -- 15
+if$ -- 372
+int.to.chr$ -- 0
+int.to.str$ -- 8
+missing$ -- 8
+newline$ -- 30
+num.names$ -- 8
+pop$ -- 29
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 44
+stack$ -- 0
+substring$ -- 72
+swap$ -- 22
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 14
+width$ -- 9
+write$ -- 72
+(There were 3 warnings)

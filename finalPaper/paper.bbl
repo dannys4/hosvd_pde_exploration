@@ -1,0 +1,39 @@
+\begin{thebibliography}{1}
+
+\bibitem{ttb}
+B.~W. Bader, T.~G. Kolda, {\em et~al.}, ``{MATLAB Tensor Toolbox Version}
+  3.1.'' Available online, June 2019.
+
+\bibitem{pod_book}
+S.~Volkwein, ``Proper {Orthogonal} {Decomposition}: {Theory} and
+  {Reduced-Order} {Modeling}.'' Lecture Notes, University of Konstanz
+  Department of Mathematics and Statistics, Aug 2013.
+
+\bibitem{trefethen_bau}
+L.~N. Trefethen and D.~Bau, {\em Numerical Linear Algebra}.
+\newblock Society for Industrial and Applied Mathematics.
+
+\bibitem{kreyszig}
+E.~Kreyszig, {\em Introductory functional analysis with applications}.
+\newblock New York: Wiley, 1978.
+
+\bibitem{kolda_bader}
+T.~G. Kolda and B.~W. Bader, ``Tensor {Decompositions} and {Applications},''
+  {\em SIAM Review}, vol.~51, pp.~455--500, Aug. 2009.
+
+\bibitem{hosvd}
+L.~De~Lathauwer, B.~De~Moor, and J.~Vandewalle, ``A multilinear singular value
+  decomposition,'' vol.~21, no.~4, pp.~1253--1278.
+
+\bibitem{fin_diff}
+M.~Pugh and R.~Almgren, ``Mat1062: {Introductory} {Numerical} {Methods} for
+  {PDE}.'' Introduction to Finite Difference Methods, University of Toronto,
+  Jan 2009.
+
+\bibitem{pdes}
+N.~H. Asmar, {\em Partial differential equations with {Fourier} series and
+  boundary value problems}.
+\newblock Mineola, New York: Dover Publications, Inc, dover edition/revised amd
+  updated third edition~ed., 2016.
+
+\end{thebibliography}
